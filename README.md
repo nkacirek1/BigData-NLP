@@ -8,4 +8,3 @@ The project is divided into 3 main parts:
 1. Preprocessing the data.
 2. Giving rating to every individual review using 5 sentiment classes (1, 2, 3, 4, 5), from very negative (1) to very positive (5) by implementing 7 different algorithms in Apache Spark and comparing them. 
 3. Calculating overall adjusted star rating for each product using Bayesian average.
-# BigDataTP
